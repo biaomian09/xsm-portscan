@@ -18,7 +18,7 @@ __  __ ___  _ __ ___          _ __    ___   _ __ | |_  ___   ___   __ _  _ __
 [*]BY.雪山盟-表面
 [*]联系方式:YY1127viv
 [*]交流基地:2294413043
-[*]Github:https://www.github.com/xxx/xx
+[*]Github:https://github.com/biaomian09/xsm-portscan
 [*]使用方法:(1)输入可访问的域名/ip;(2)输入线程数{tail}
 '''
 
